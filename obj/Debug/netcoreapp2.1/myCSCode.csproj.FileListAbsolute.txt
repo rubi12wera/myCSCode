@@ -1,0 +1,11 @@
+/Users/rubidehugo/Projects/myCSCode/bin/Debug/netcoreapp2.1/myCSCode.deps.json
+/Users/rubidehugo/Projects/myCSCode/bin/Debug/netcoreapp2.1/myCSCode.runtimeconfig.json
+/Users/rubidehugo/Projects/myCSCode/bin/Debug/netcoreapp2.1/myCSCode.runtimeconfig.dev.json
+/Users/rubidehugo/Projects/myCSCode/bin/Debug/netcoreapp2.1/myCSCode.dll
+/Users/rubidehugo/Projects/myCSCode/bin/Debug/netcoreapp2.1/myCSCode.pdb
+/Users/rubidehugo/Projects/myCSCode/obj/Debug/netcoreapp2.1/myCSCode.csprojAssemblyReference.cache
+/Users/rubidehugo/Projects/myCSCode/obj/Debug/netcoreapp2.1/myCSCode.csproj.CoreCompileInputs.cache
+/Users/rubidehugo/Projects/myCSCode/obj/Debug/netcoreapp2.1/myCSCode.AssemblyInfoInputs.cache
+/Users/rubidehugo/Projects/myCSCode/obj/Debug/netcoreapp2.1/myCSCode.AssemblyInfo.cs
+/Users/rubidehugo/Projects/myCSCode/obj/Debug/netcoreapp2.1/myCSCode.dll
+/Users/rubidehugo/Projects/myCSCode/obj/Debug/netcoreapp2.1/myCSCode.pdb
